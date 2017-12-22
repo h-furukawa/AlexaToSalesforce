@@ -1,0 +1,23 @@
+{
+    "name": "alexatosalesforce",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "alexa-sdk": "^1.0.21",
+        "request": "^2.83.0"
+    },
+    "devDependencies": {
+        "del": "^3.0.0",
+        "gulp": "^3.9.1",
+        "gulp-install": "^1.1.0",
+        "gulp-merge": "^0.1.1",
+        "gulp-zip": "3.0.2",
+        "run-sequence": "^2.2.0"
+    }
+}
